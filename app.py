@@ -59,4 +59,3 @@ if upload is not None:
         captures.release()
 else:
     st.warning("Please upload a video to start object tracking.")
-    
