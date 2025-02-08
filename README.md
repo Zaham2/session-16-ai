@@ -58,4 +58,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [NumPy](https://numpy.org/)
 
 ## Demo
-This project is deployed [HERE](https://objecttrackingproject2.streamlit.app/)
+This project is deployed [HERE](https://some-object-detector.streamlit.app/)
